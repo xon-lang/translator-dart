@@ -1,8 +1,8 @@
 {
   "name": "@xon/translator-dart",
   "author": "Nizami",
-  "version": "0.0.1",
-  "description": "XON is an open-source programming language",
+  "version": "0.0.0",
+  "description": "XON to Dart translator",
   "bugs": {
     "url": "https://github.com/xon-lang/translator-dart/issues"
   },
@@ -14,7 +14,8 @@
   "keywords": [
     "xon",
     "programming language",
-    "translator"
+    "translator",
+    "dart translator"
   ],
   "license": "MIT",
   "private": false,
