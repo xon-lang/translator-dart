@@ -1,0 +1,26 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll": true
+  },
+  "files.autoSave": "afterDelay",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "search.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/.DS_Store": true,
+    "**/dist": true,
+    "**/package-lock.json": true
+  },
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.tsc.autoDetect": "off",
+  "cSpell.words": ["bfnrtv", "codacy", "PAREN", "pinst", "postpublish", "postversion"]
+}

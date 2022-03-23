@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "outDir": ".",
+    "baseUrl": ".",
+    "declaration": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2021"
+    ],
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "paths": {
+      "*": [
+        "node_modules/*"
+      ]
+    },
+    "target": "ES2021"
+  },
+  "exclude": [],
+  "include": [
+    "**/*"
+  ]
+}

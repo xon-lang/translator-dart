@@ -1,0 +1,6 @@
+node_modules
+dist
+coverage
+src/grammar/*
+!xon-lexer-base.ts
+.vscode/templates
